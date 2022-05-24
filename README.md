@@ -1,12 +1,15 @@
 # FilmesAPI
-Projeto ASP.NET Core Alura
+ASP.NET Core Alura project
+Rest API Course with .NET
 
-Curso de API Rest com .NET
+API developed in C#:
 
-API desenvolvida em C#:
+Methods:
+1. Register movie
+2. Recover all movies
+3. Recover movie by ID
+4. Update movie
+5. Delete movie
 
-Métodos:
-1. Cadastrar filme
-2. Recuperar todos os filmes
-3. Recuperar filme por ID
+LinkedIn Profile:  
 

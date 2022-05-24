@@ -11,5 +11,5 @@ Methods:
 4. Update movie
 5. Delete movie
 
-LinkedIn Profile:  
+LinkedIn Profile:  https://www.linkedin.com/in/jonathas-sodr%C3%A9-castro-225832b6/
 
